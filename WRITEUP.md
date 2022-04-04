@@ -1,8 +1,9 @@
 
 ### TO RUN
 
-1. install latest version of angular and necessary dependencies
-2. run `ng serve` and navigate to `http://localhost:4200/` to view. or just simply run `ng serve --open`
+1. clone the repo
+2. run `npm install`
+3. run `ng serve` and navigate to `http://localhost:4200/` to view. or just simply run `ng serve --open`
 
 ### HOW TO USE APPLICATION
 
