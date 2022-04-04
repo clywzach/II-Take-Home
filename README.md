@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.1.
 
 Takes 10k+ json records (randomly generated w/ python script) and displays them to an Angular Material Table.
-Allows for search, pagination, specifying rows per page, removing unwanted columns, and adjusting column size.
+Allows for search, pagination, specifying rows per page, removing unwanted columns, and adjusting column sizes.
 
 ### TO RUN
 
