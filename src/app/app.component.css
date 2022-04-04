@@ -1,0 +1,59 @@
+table {
+    width: 100%;
+  }
+
+mat-paginator, #title{
+  text-align: center;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.mat-header-cell {
+  border-right: 1px solid rgba(0, 0, 0, 0.12);
+  border-bottom: 3px solid rgba(0, 0, 0, 0.12);
+  padding-left:10px;
+}
+
+.resize-holder {
+  width: 5px;
+  height: 20px;
+  float: right;
+  z-index: 1;
+  cursor: col-resize;
+}
+
+.resizing {
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: col-resize;
+}
+
+.mat-cell{
+  font-size:12px;
+  font-family: Verdana,Sans-Serif;
+  display: table-cell;
+  border-right: 1px solid rgba(0, 0, 0, 0.12);
+  padding: 0 10px;
+  }
+
+#header{
+  display: flex;
+  justify-content: center;
+}
+
+mat-form-field{
+  text-align:left;
+}
+
+button{
+  height: 100%;
+  margin-top: 11px;
+  margin-left: 5px;
+}
+
+.close{
+  cursor: pointer;
+}
